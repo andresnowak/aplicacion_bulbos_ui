@@ -1,0 +1,30 @@
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Release\aplicacion para bulbos con ui.exe.config
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Release\aplicacion para bulbos con ui.exe.manifest
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Release\aplicacion para bulbos con ui.application
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Release\aplicacion para bulbos con ui.exe
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Release\aplicacion para bulbos con ui.pdb
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Release\aplicacion para bulbos con ui.xml
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.vbprojResolveAssemblyReference.cache
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion_para_bulbos_con_ui.Form1.resources
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion_para_bulbos_con_ui.Resources.resources
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.vbproj.GenerateResource.Cache
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.exe.manifest
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.application
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.exe
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.xml
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.pdb
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Release\aplicacion para bulbos con ui.exe.config
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Release\aplicacion para bulbos con ui.exe.manifest
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Release\aplicacion para bulbos con ui.application
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Release\aplicacion para bulbos con ui.exe
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Release\aplicacion para bulbos con ui.pdb
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Release\aplicacion para bulbos con ui.xml
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.vbprojResolveAssemblyReference.cache
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion_para_bulbos_con_ui.Form1.resources
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion_para_bulbos_con_ui.Resources.resources
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.vbproj.GenerateResource.Cache
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.exe.manifest
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.application
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.exe
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.xml
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Release\aplicacion para bulbos con ui.pdb

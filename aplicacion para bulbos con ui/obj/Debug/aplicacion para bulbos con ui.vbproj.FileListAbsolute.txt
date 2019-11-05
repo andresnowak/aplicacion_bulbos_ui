@@ -1,0 +1,67 @@
+c:\users\andrzej\documents\visual studio 2017\Projects\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe.config
+c:\users\andrzej\documents\visual studio 2017\Projects\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe
+c:\users\andrzej\documents\visual studio 2017\Projects\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.pdb
+c:\users\andrzej\documents\visual studio 2017\Projects\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.xml
+c:\users\andrzej\documents\visual studio 2017\Projects\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.vbprojResolveAssemblyReference.cache
+c:\users\andrzej\documents\visual studio 2017\Projects\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion_para_bulbos_con_ui.Form1.resources
+c:\users\andrzej\documents\visual studio 2017\Projects\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion_para_bulbos_con_ui.Resources.resources
+c:\users\andrzej\documents\visual studio 2017\Projects\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.vbproj.GenerateResource.Cache
+c:\users\andrzej\documents\visual studio 2017\Projects\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.exe
+c:\users\andrzej\documents\visual studio 2017\Projects\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.xml
+c:\users\andrzej\documents\visual studio 2017\Projects\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.pdb
+C:\Users\andrzej\Videos\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe.config
+C:\Users\andrzej\Videos\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe
+C:\Users\andrzej\Videos\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.pdb
+C:\Users\andrzej\Videos\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.xml
+C:\Users\andrzej\Videos\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.vbprojResolveAssemblyReference.cache
+C:\Users\andrzej\Videos\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion_para_bulbos_con_ui.Form1.resources
+C:\Users\andrzej\Videos\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion_para_bulbos_con_ui.Resources.resources
+C:\Users\andrzej\Videos\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.vbproj.GenerateResource.Cache
+C:\Users\andrzej\Videos\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.exe
+C:\Users\andrzej\Videos\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.xml
+C:\Users\andrzej\Videos\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.pdb
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe.config
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.pdb
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.xml
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.vbprojResolveAssemblyReference.cache
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion_para_bulbos_con_ui.Form1.resources
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion_para_bulbos_con_ui.Resources.resources
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.vbproj.GenerateResource.Cache
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.exe
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.xml
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.pdb
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe.manifest
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.application
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.exe.manifest
+C:\Users\andres nowak\OneDrive\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.application
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe.config
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe.manifest
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.application
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.pdb
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.xml
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.vbprojResolveAssemblyReference.cache
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion_para_bulbos_con_ui.Form1.resources
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion_para_bulbos_con_ui.Resources.resources
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.vbproj.GenerateResource.Cache
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.exe.manifest
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.application
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.exe
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.xml
+E:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.pdb
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe.config
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe.manifest
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.application
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.exe
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.pdb
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\bin\Debug\aplicacion para bulbos con ui.xml
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.vbprojResolveAssemblyReference.cache
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion_para_bulbos_con_ui.Form1.resources
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion_para_bulbos_con_ui.Resources.resources
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.vbproj.GenerateResource.Cache
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.exe.manifest
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.application
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.exe
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.xml
+G:\aplicacion para bulbos con ui\aplicacion para bulbos con ui\obj\Debug\aplicacion para bulbos con ui.pdb
